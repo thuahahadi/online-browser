@@ -59,7 +59,7 @@ sleep 0.1
 
 
 echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
-echo -e "${White}     | ${Yellow}  ID ${White} |                  ${BPurple}   Browser Name                       ${White}   |"
+echo -e "${White}     | ${Yellow} ID ${White}  |                  ${BPurple}   Browser Name                       ${White}    |"
 echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
 echo -e "${White}     | ${Red}[${Yellow} 1${Red} ]${White} |$Green Install Chromium${White}                                           |"
 echo -e "${White}     | ${Red}[${Yellow} 2${Red} ]${White} |$Green Install Firefox${White}                                            |"
