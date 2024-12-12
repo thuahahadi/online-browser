@@ -50,22 +50,22 @@ echo -e "     |                                                                 
 sleep 0.1
 echo -e "${Cyan}    +${Yellow}--------------------------------------------------------------------------------------------------------------------------${Cyan}+${Yellow}"
 sleep 0.1
-echo -e "                                     |${BRed} Online Browser ${BYellow}by${BGreen} Thuaha Hadi${Cyan} Powered by${BPurple} Google Cloud Console${Blue} Associated with${BWhite} Kasm VNC${Yellow} |"
+echo -e "                      |${BRed} Online Browser ${BYellow}by${BGreen} Thuaha Hadi${Cyan} Powered by${BPurple} Google Cloud Console${Blue} Associated with${BWhite} Kasm VNC${Yellow} |"
 sleep 0.1
-echo -e "                                     ${Cyan}+${Yellow}--------------------------------------------------------${Cyan}+"
+echo -e "                      ${Cyan}+${Yellow}--------------------------------------------------------------------------------------------------------${Cyan}+"
 sleep 0.1
 
-####################################################### By Thuaha Hadi #######################################################
+#######################################################
 
 
-echo -e "${Yellow}     +${White}-------------------------------------------------------------------${Yellow}+"
-echo -e "${White}     | ${Yellow} ID ${White} |                   ${BPurple}   Browser Name                       ${White}   |"
-echo -e "${Yellow}     +${White}-------------------------------------------------------------------${Yellow}+"
+echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
+echo -e "${White}     | ${Yellow}  ID ${White} |                  ${BPurple}   Browser Name                       ${White}   |"
+echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
 echo -e "${White}     | ${Red}[${Yellow} 1${Red} ]${White} |$Green Install Chromium${White}                                           |"
 echo -e "${White}     | ${Red}[${Yellow} 2${Red} ]${White} |$Green Install Firefox${White}                                            |"
 echo -e "${White}     | ${Red}[${Yellow} 3${Red} ]${White} |$Green Install Opera${White}                                              |"
 echo -e "${White}     | ${Red}[${Yellow} 4${Red} ]${White} |$Green Install Mullvad Browser${White}                                    |"
-echo -e "${Yellow}     +${White}-------------------------------------------------------------------${Yellow}+"
+echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
 echo ""
 echo -e -n "$White    ${Red} [${Cyan}!Note:${Red}]$White If your choice is Chromium type $Green 1${White} not ${Red}01$White and the same principle applies to other browsers "
 echo ""
