@@ -46,6 +46,7 @@ This Bash script enables you to quickly install various web browsers using Docke
 ### Selecting a Browser
 
 5. Follow the on-screen instructions to select and install the desired browser.
+   
 6. When the download is finished, click on the web preview icon and choose Change port from the menu.
 7. Type port 3000 and click change and preview.
 
