@@ -14,13 +14,6 @@ This Bash script enables you to quickly install various web browsers using Docke
 
 - You can use this script directly in the [Google Cloud Shell](https://console.cloud.google.com/welcome) by running the following command: 
 
-```bash
-curl -sLkO thuahahadi.ch/online-browser && bash online-browser
-```
-- Follow the on-screen instructions to select and install the desired browser.
-- When the download is finished, click on the web preview icon and choose Change port from the menu.
-- Type port 3000 and click change and preview.
-
 
 ### Cloning the Repository
 
@@ -53,6 +46,8 @@ curl -sLkO thuahahadi.ch/online-browser && bash online-browser
 ### Selecting a Browser
 
 5. Follow the on-screen instructions to select and install the desired browser.
+6. When the download is finished, click on the web preview icon and choose Change port from the menu.
+7. Type port 3000 and click change and preview.
 
 ## License
 
