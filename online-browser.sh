@@ -52,7 +52,7 @@ echo -e "${Cyan}    +${Yellow}--------------------------------------------------
 sleep 0.1
 echo -e "                      |${BRed} Online Browser ${BYellow}by${BGreen} Thuaha Hadi${Cyan} Powered by${BPurple} Google Cloud Console${Blue} Associated with${BWhite} Kasm VNC${Yellow} |"
 sleep 0.1
-echo -e "                      ${Cyan}+${Yellow}--------------------------------------------------------------------------------------------------------${Cyan}+"
+echo -e "${Cyan}    +${Yellow}--------------------------------------------------------------------------------------------------------------------------${Cyan}+"
 sleep 0.1
 
 #######################################################
