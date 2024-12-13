@@ -67,10 +67,10 @@ echo -e "${White}     | ${Red}[${Yellow} 3${Red} ]${White} |$Green Install Opera
 echo -e "${White}     | ${Red}[${Yellow} 4${Red} ]${White} |$Green Install Mullvad Browser${White}                                    |"
 echo -e "${Yellow}     +${White}--------------------------------------------------------------------${Yellow}+"
 echo ""
-echo -e -n "$White    ${Red} [${Cyan}!Note:${Red}]$White If your choice is Chromium type $Green 1${White} not ${Red}01$White and the same principle applies to other browsers "
+echo -e -n "$White    ${Red} [${Cyan}* Note:${Red}]$White If your choice is Chromium type $Green 1${White} not ${Red}01$White and the same principle applies to other browsers "
 echo ""
 echo ""
-echo -e -n "$White    ${Red} [${Cyan}!${Red}]$White Type the Browser$BRed ID$White "
+echo -e -n "$White    ${Red} [${Cyan}*${Red}]$White Type the Browser$BRed ID$White "
 read -p "of your choice : " choice
 case $choice in
     1)
