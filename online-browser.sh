@@ -81,7 +81,7 @@ case $choice in
             -e PUID=1000 \
             -e PGID=1000 \
             -e TZ=Etc/UTC \
-            -p 2147:2147 \
+            -p 3000:3000 \
             -p 3001:3001 \
             -v /chromium:/config \
             --shm-size="7gb" \
@@ -96,7 +96,7 @@ case $choice in
             -e PUID=1000 \
             -e PGID=1000 \
             -e TZ=Etc/UTC \
-            -p 2147:2147 \
+            -p 3000:3000 \
             -p 3001:3001 \
             -v /firefox:/config \
             --shm-size="7gb" \
@@ -111,7 +111,7 @@ case $choice in
             -e PUID=1000 \
             -e PGID=1000 \
             -e TZ=Etc/UTC \
-            -p 2147:2147 \
+            -p 3000:3000 \
             -p 3001:3001 \
             -v /opera:/config \
             --shm-size="7gb" \
@@ -126,7 +126,7 @@ case $choice in
             -e PUID=1000 \
             -e PGID=1000 \
             -e TZ=Etc/UTC \
-            -p 2147:2147 \
+            -p 3000:3000 \
             -p 3001:3001 \
             -v /mullvad-browser:/config \
             --shm-size="7gb" \
@@ -161,7 +161,7 @@ sleep 0.1
 echo ""
 sleep 0.1
 
-echo -e -n "$White    ${Red} [${Green} ✔ ${Red}]$White Browser installation has been completed successfully. Please${BYellow} Change port${White} number${BGreen} 2147${White} to get started"
+echo -e -n "$White    ${Red} [${Green} ✔ ${Red}]$White Browser installation has been completed successfully. Please${BYellow} Change port${White} number${BGreen} 3000${White} to get started"
 sleep 0.1
 echo ""
 sleep 0.1
