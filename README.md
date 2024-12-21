@@ -50,6 +50,10 @@ This Bash script enables you to quickly install various web browsers using Docke
 6. When the download is finished, click on the web preview icon and choose Change port from the menu.
 7. Type port ```3000``` and click change and preview.
 
+## Video Tutorial
+
+[Watch the YouTube video](https://www.youtube.com/watch?v=runPMNHkBQU)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/thuahahadi/online-browser/blob/main/LICENSE) file for details.
